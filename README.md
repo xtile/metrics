@@ -1,8 +1,14 @@
-### [`~ 0xduraki`](https://twitter.com/0xduraki)
+### Hi there 👋
 
-<b><p align="center">#offensivesecurity rockstar 🙈</p></b>
+Welcome to [0xduraki](https://duraki.github.io/)'s (a/k/a ['deviltux'](https://twitter.com/0xduraki)) GitHub profile. 
 
+### [`~ 0xduraki`](https://github.com/duraki) / [`~ notes`](http://notes.durakiconsulting.com) / [`~ blog`](https://duraki.github.io) / [`~ consulting`](https://durakiconsulting.com) 
+
+<b><p align="center">🧪 I'm a young #OffensiveSec Researcher<br><sub>mostly interested in Reverse Engineering</sub><br>... and ...<br>⚡️ Also doing Hardware/Automotive Security<br>🤩 Published & Disclosed 4 CVE's<br>Found  Vulnerabilities in Apple , Huawei, and <a href="https://duraki.github.io/reports.html">many more</a></p></b>
+
+- `reach me at` mail via addr `h[@]durakiconsulting[.]com`
 - `founder of` [durakiconsulting](https://durakiconsulting.com) 🦄 #infosec consulting agency
+- `portfolio/cve`'s are on my [hall-of-fame page](https://duraki.github.io/reports.html)
 - `writes blog` [here](https://duraki.github.io), via custom [static generator](https://github.com/duraki/duraki.github.io/#durakiblogdeviltux)
 - `digital garden` and my notes are [online](https://notes.durakiconsulting.com) as well
 - `fame and recognition` on my [Twitter](https://twitter.com/0xduraki)
