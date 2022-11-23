@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <sup>👋</sup>
 
-Welcome to [0xduraki](https://duraki.github.io/)'s (a/k/a ['deviltux'](https://twitter.com/0xduraki) ) GitHub profile ✨
+Welcome to [0xduraki](https://duraki.github.io/)'s (a/k/a ['deviltux'](https://twitter.com/0xduraki) ) GitHub profile <sup>✨</sup>
 
 ### [`~ 0xduraki`](https://github.com/duraki) / [`~ notes`](http://notes.durakiconsulting.com) / [`~ blog`](https://duraki.github.io) / [`~ consulting`](https://durakiconsulting.com) 
 
@@ -8,7 +8,27 @@ Welcome to [0xduraki](https://duraki.github.io/)'s (a/k/a ['deviltux'](https://
 
 <b><p align="center">🧪 I'm a young #OffensiveSec Researcher<br><sub>mostly interested in Reverse Engineering</sub><br>... and ...<br>⚡️ Also doing Hardware/Automotive Security<br>🤩 Published & Disclosed 4 CVE's<br>Found  Vulnerabilities in Apple , Huawei, and <a href="https://duraki.github.io/reports.html">many more</a></p></b>
 
-#### About
+#### Repositories <sup>:heart:</sup>
+
+<p align="center">
+<a href="https://github.com/duraki/notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duraki&repo=notes&theme=dark" />
+</a>
+  
+<a href="https://github.com/duraki/socketcanx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duraki&repo=socketcanx&theme=dark" />
+</a>
+  
+<a href="https://github.com/duraki/charles-keygen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duraki&repo=charles-keygen&theme=dark" />
+</a>
+  
+<a href="https://github.com/duraki/frida-cycript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nowsecure&repo=frida-cycript&theme=dark" />
+</a>
+</p>
+
+#### About <sup>🥹</sup>
 
 - `reach me at` mail via addr `h[@]durakiconsulting[.]com`
 - `founder of` [durakiconsulting](https://durakiconsulting.com) 🦄 #infosec consulting agency
