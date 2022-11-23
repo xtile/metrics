@@ -17,7 +17,7 @@ Contact `~me`
 <details> 
 <summary>Stats <code>~me</code> 🏄🏻</summary>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duraki&theme=github_dark" /></p>
-<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduraki1212%2Fhit-counter" /></p>
+<p align="center"><img src="https://gpvc.arturio.dev/duraki" /></p>
 </details>
 
 <hr>
