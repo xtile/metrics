@@ -25,9 +25,9 @@ Other's `~me`
 <a href="https://t.me/mepwnzu">![](https://badgen.net/badge/icon/telegram?icon=telegram&label)</a> <a href="https://twitter.com/0xduraki">![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)</a> <a href="https://github.com/duraki">![](https://badgen.net/badge/icon/github?icon=github&label)</a> 
 
 <details> 
-<summary>Stats <code>~me</code> 🏄🏻</summary>
+<summary>Stats <code>~me</code> 🏄🏻 <p align="center"><img src="https://gpvc.arturio.dev/duraki" /></p></summary>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duraki&theme=github_dark" /></p>
-<p align="center"><img src="https://gpvc.arturio.dev/duraki" /></p>
+  <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=duraki&theme=monokai&no-frame=true&no-bg=true&row=1" /></p> -->
   <!-- <p align="center"><a href="https://github.com/duraki/SketchCrapp">SketchCrapp</a> stars:<br><img src="https://stars.medv.io/duraki/SketchCrapp.svg" /></p> -->
 </details>
 
