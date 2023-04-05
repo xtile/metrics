@@ -23,8 +23,7 @@ jobs:
 
           # git flow
           output_action: commit
-          committer_branch: {["metrics", "master"]}
-          committer_message: "🥳 welcome aboard, deploy completed."
+          committer_message: "🥳 Welcome aboard, deploy completed."
 
           clean_workflows: failure, startup_failure, cancelled
           delay: 1
