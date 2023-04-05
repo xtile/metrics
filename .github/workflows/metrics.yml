@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: duraki/metrics@master
+      - uses: duraki/fmetrics@master
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
