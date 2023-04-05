@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
 
           # General
           config_timezone: Europe/Zagreb
@@ -28,7 +28,6 @@ jobs:
           user: duraki
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Zagreb
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
