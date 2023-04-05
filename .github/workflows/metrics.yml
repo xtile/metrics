@@ -6,6 +6,9 @@ on:
 
   # (opt) Run workflow manually
   workflow_dispatch:
+
+  # make containers reusable
+  workflow_call:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
