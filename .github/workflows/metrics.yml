@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule 12h updates
-  schedule: [{cron: "* 12 * * *"}]
+  schedule: [{cron: "15 12 * * *"}]
   push: {branches: ["master"]}
 
   # (opt) Run workflow manually
