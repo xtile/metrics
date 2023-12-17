@@ -80,11 +80,11 @@ jobs:
 
 
            #Configuring Views
-           base: header
-           plugin_isocalendar: yes
-           plugin_languages: yes
-           plugin_stars: yes
-           config_order: base.header, isocalendar, languages, stars
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          config_order: base.header, isocalendar, languages, stars
 
 
           # The handles to use for each plugin and sections is based on the partials/_.json of the template
