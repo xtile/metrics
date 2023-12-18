@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
       #- uses: duraki/fmetrics@master
-      with:
+        with:
           # cacheup
           use_prebuilt_image: yes
 
