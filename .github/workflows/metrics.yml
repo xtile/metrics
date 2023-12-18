@@ -73,13 +73,13 @@ jobs:
 
           # featured repos
           plugin_repositories: yes
-          #plugin_repositories_affiliations: owner, collaborator, organization_member
+          plugin_repositories_affiliations: owner, collaborator, organization_member
           plugin_repositories_starred: 1
           #plugin_repositories_featured: frida/frida-cycript
 
 
 
-           #Configuring Views
+          #Configuring Views
           #base: header
           #plugin_isocalendar: yes
           #plugin_languages: yes
